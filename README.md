@@ -1,0 +1,2 @@
+# I7-7700-GA-B150-DS3H-RX570
+Big Sur OC黑苹果EFI
